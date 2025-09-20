@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi 👋, I'm, Shivansh Shukla<br>A passionate Aspiring Artificial Intelligence Engineer who likes to work on various sub domains of AI like- Deep Learning, Machine Learning, Natural Language Processing And Generative AI.<br>🔭I am Currently working on Multiple Generative AI Projects.<br>👯 I am Looking for people who can collab to work and grow together🤝.<br>🌱 I am currently learning Crew AI, MCP Server and Langgraph<br>📫 How to reach me shuklashivansh343@gmail.com or Contact On: +917275446893
 
-# Experience
+# 👷🏻‍♂️ Experience
 I have completed an Internship with Tellis Technologies as an AI/ML Developer Intern from May 2025 to July 2025
 
 ## 🌐 Socials:
